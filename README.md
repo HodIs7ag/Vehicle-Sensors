@@ -1,4 +1,4 @@
-# Fleet Tracking System
+# Vehicle Sensors
 
 
 This project simulates the movement of a vehicle using a graphical interface (GUI) and generates vehicle data such as location, speed, and condition. The generated data is then published to an MQTT broker. Another script subscribes to the MQTT topics and stores the data into MongoDB, MySQL, and Neo4j databases.
