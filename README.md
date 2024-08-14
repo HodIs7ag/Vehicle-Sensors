@@ -19,8 +19,8 @@ This project simulates the movement of a vehicle using a graphical interface (GU
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/DatabaseUnime/MahmoudAbdelrahim
-    cd MahmoudAbdelrahim
+    git clone https://github.com/HodIs7ag/Vehicle-Sensors
+    cd Vehicle-Sensors
     ```
 
 2. Set up a Python virtual environment and install dependencies:
